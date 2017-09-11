@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="action_settings">Settings</string>
+    <string name="langPrompt">Choose a Language</string>
+
+    <string-array name="supportedLanguages">
+        <item>ENGLISH</item>
+        <item>HINDI</item>
+        <item>INDONESIAN</item>
+        <item>SWEDISH</item>
+        <item>TAMIL</item>
+        <item>TELUGU</item>
+        <item>URDU</item>
+        <item>CHINESE SIMPLIFIED</item>
+        <item>CHINESE TRADITIONAL</item>
+        <item>CROATIAN</item>
+        <item>CZECH</item>
+        <item>DANISH</item>
+        <item>DUTCH</item>
+        <item>ESPERANTO</item>
+        <item>ESTONIAN</item>
+        <item>FILIPINO</item>
+        <item>FINNISH</item>
+        <item>FRENCH</item>
+        <item>GERMAN</item>
+        <item>GREEK</item>
+        <item>IRISH</item>
+        <item>ITALIAN</item>
+        <item>JAPANESE</item>
+        <item>KANNADA</item>
+        <item>KOREAN</item>
+        <item>LATIN</item>
+        <item>LITHUANIAN</item>
+        <item>MACEDONIAN</item>
+        <item>MALAY</item>
+        <item>MALTESE</item>
+        <item>NORWEGIAN</item>
+        <item>PERSIAN</item>
+        <item>POLISH</item>
+        <item>PORTUGUESE</item>
+        <item>ROMANIAN</item>
+        <item>RUSSIAN</item>
+        <item>SERBIAN</item>
+        <item>SPANISH</item>
+        <item>THAI</item>
+        <item>TURKISH</item>
+        <item>UKRAINIAN</item>
+        <item>UZBEK</item>
+        <item>WELSH</item>
+        <item>YIDDISH</item>
+
+    </string-array>
+</resources>
